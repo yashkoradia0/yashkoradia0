@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Everyone! 👋
 
 ![](Yash_K.png)
 
