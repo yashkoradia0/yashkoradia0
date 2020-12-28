@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](Yash K.png)
+![](YashK.png)
 
 
 ###  About Me
