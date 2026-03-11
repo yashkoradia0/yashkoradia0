@@ -6,6 +6,6 @@
 ###  About Me
 I am a Cyber Security Enthusiast and a Hacker with an Ethical mindset. I am having experience in Web-app security, Vulnerability Assessment & Penetration Testing. I am also experienced with tools like Burp suite, acunetix, Nmap, Pentest tools and of course with Kali Linux & many more for finding vulnerabilities in web applications.
 
-10+ Hall of Fame including Under Armour, Lululemon, NCIIPC, etc. You can find me on [2].
+10+ Hall of Fame including Under Armour, Lululemon, NCIIPC, etc. You can find me on [Linkedin].
 
 [2]: https://www.linkedin.com/in/yash-koradia/
