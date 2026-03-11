@@ -8,5 +8,4 @@ I am a Cyber Security Enthusiast and a Hacker with an Ethical mindset. I am havi
 
 10+ Hall of Fame including Under Armour, Lululemon, NCIIPC, etc. You can find me on [![LinkedIn][2.1]][2].
 
-[2.1]: https://images.icon-icons.com/1099/PNG/512/1485482199-linkedin_78667.png
 [2]: https://www.linkedin.com/in/yash-koradia/
